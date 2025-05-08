@@ -5,3 +5,6 @@ Hi! It's Rattex
 Test on Kali Linux
         Net Hunter
         Termux
+
+I'm not responsible for illegal activity!
+Just for education!
